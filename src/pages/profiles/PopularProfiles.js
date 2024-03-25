@@ -37,4 +37,4 @@ const PopularProfiles = ({ mobile }) => {
       );
     };
     
-export default PopularProfiles
+export default PopularProfiles;
